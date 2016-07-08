@@ -1,0 +1,399 @@
+﻿/*
+
+	Global CSS
+	"Gentle Care" Dental
+	----------------------------- Testimonial section---------------------------------- */
+.oq
+{
+	background-image:url('Images/Dentalquote.png');
+	background-repeat:no-repeat;
+	
+}
+.cq
+{
+	background-image:url('Images/Dentalquotebtm.png');
+	background-repeat:no-repeat;
+		text-align:right;
+}
+.pgraph
+{
+	margin-top:5px; 
+	margin-bottom:0px;
+}
+.testimonial
+{
+	 margin-top:4px;
+	padding-left:25px;
+	padding-right:25px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+		color:#333333;
+}
+.testimonialbody
+{
+	background-image:url('Images/tmid.png');
+	background-repeat:repeat;
+	
+}
+.testimonials li{
+	list-style-type:none;
+	list-style:none;
+	background-image:none;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+/* Main container, header, background*/
+.wrap
+{
+	position:absolute;
+}
+.wraplogo
+{
+	padding-left:10px; 
+	padding-top:55px;
+}
+.headerright
+{
+	padding-top:60px; 
+	padding-right:10px;
+}
+.right
+{
+	float:right;
+}
+.container
+{
+	width:964px;
+	height:auto;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	 vertical-align:top;
+}
+.headerdiv
+{
+	height:175px;
+	width:964px;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	 vertical-align:top;
+}
+.background
+{
+	background-image: url('Images/newbg.png');
+	background-repeat:repeat-x;
+}
+#Header a:link  {
+	Font-family:Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	font-weight:bold;
+	font-style:normal;
+	font-variant:normal;
+		color:White;
+	text-decoration:none;
+}
+#Header a:hover{Font-family:Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	font-weight:bold;
+	font-style:normal;
+	font-variant:normal;
+		color:White;
+	text-decoration:underline;
+}
+#Header a:visited
+{
+	Font-family:Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	font-weight:bold;
+	font-style:normal;
+	font-variant:normal;
+		color:White;
+	text-decoration:none;
+}
+/*------------------------------------------ Footer----------------------------------------------- */
+#Footlinks a:link {
+	Font-family:Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	font-weight: normal;
+	font-style:normal;
+	font-variant:normal;
+		color:#e6e6e6;
+	text-decoration:none;
+	padding:10px 0px 0px 0px;"
+}
+#Footlinks a:hover {
+	Font-family:Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	font-weight:bold;
+	font-style:normal;
+	font-variant:normal;
+		color:White;
+
+}
+#Footlinks a:visited {
+	Font-family:Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	font-weight: normal;
+	font-style:normal;
+	font-variant:normal;
+		color:White;
+	text-decoration:none;
+}
+#Footer ul li{
+	list-style-type:none;
+	background-image:none;
+	padding-left:-10px;
+}
+#Footlinks
+{
+	Font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	font-weight: normal;
+	font-style:normal;
+	font-variant:normal;
+		color:#E6E6E6;
+	text-decoration:none;
+
+	}
+#Footlinks p {
+	margin-top:10px;
+	margin-bottom:10px;
+}
+#Footlinks
+{
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	padding-left:40px;
+}
+#Footlinks h1
+{
+	font-size:11pt;
+	padding:10px 0px 0px 0px; 
+	width: 280px; 
+	color:#E6E6E6;"
+}
+#Footlinks hr
+{
+	width:225px;
+	height:1px;
+	border-collapse:collapse;
+	
+}
+.fcol
+{
+	vertical-align:top; 
+	text-align:left;
+	
+}
+.footer
+{
+	text-align:left;
+	margin-left:auto;
+	margin-right:auto;
+	width:964px;
+	background-color:#575656;
+	height:auto;
+	}
+#smalllink a, a:active, a:visited {
+	color:white;
+	font-size:12px;
+	font-family:Arial;
+}
+#smalllink a:hover
+{
+	font-weight:bold;
+	color:white;
+	font-size:12px;
+	font-family:Arial;
+}
+#smalllink p
+{
+	text-align:center;
+	padding-top:12px;
+	color:white;
+}
+.footsection
+{
+	text-align:left;
+	margin-left:auto;
+	margin-right:auto;
+	
+	background-color:#0066CC;
+	height:auto;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight: normal;
+		color:white;
+	float:left;
+}
+.footerlinkpad
+{
+	padding-top:10px;
+}
+#fcopy a, a:visited, a:active
+{
+	font-size:12px;
+	color:white;
+	font-family:Arial;
+}
+#fcopy a:hover;
+{
+	font-weight:bold;
+}
+.fcopy
+{
+	font-size:12px;
+	color:white;
+	font-family:Arial;
+}
+#fcopy
+{
+	text-align:left;
+	padding-left:80px;;
+	padding-bottom:20px;
+}
+
+/*------------------------------------- Body -------------------------------------------*/
+
+.body 
+{
+	width:964px;
+	height:100%;
+	text-align:left;
+	background-color:white;	
+	vertical-align:top;
+	
+}
+.bannerpad
+{
+	padding-top:15px;
+}
+.bodyleft
+{
+	width:700px;
+	padding-left:15px;
+	font-family:Arial, Helvetica, sans-serif;
+	padding-top:12px;
+	padding-right:10px;
+	vertical-align:top;
+	
+}
+#bodyleft li {
+	background-image:url('Images/bullet.png');
+	background-repeat:no-repeat;
+	padding-left:25px;
+}
+#body a, a:link, a:hover, a:visited {Font-family:Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	font-weight: normal;
+	font-style:normal;
+		color:#003399;
+	font-variant:normal;
+	text-decoration:none;
+}
+
+
+/*-------------------------------------------- Sidebar-------------------------------- */
+.sidebar
+{
+	width:250px;
+	padding-right:10px;
+	padding-top:15px;
+	
+}
+.sidebarimg
+{
+	border-width:0px;
+	margin-top:10px;
+}
+html, body, p, h1, h2, h3, h4, h5, h6, blockquote, ol, dl, dt, dd, form, fieldset, img, button {
+     margin: 0;
+     padding: 0;
+     border: 0;
+     
+}
+/* margin: 0.5em; td remove from above
+     padding: 0.75em; the following needed for overLIB script */
+div,td
+{
+	margin: 1;
+	padding: 1;
+}
+
+
+ul,li
+{
+     margin: 0.2em 0.2em 0.2em 0.75em;
+     padding: 0.1em;
+}
+#sizer {
+	margin: 0 auto 0 auto;
+	padding: 0;
+	width: 50%;
+	max-width: 290px;  /* version for IE is at the bottom of this style block */
+}
+
+#bodyleft ul, li {
+	list-style-type:none;
+	margin: 10px 0 9px 0px;
+	padding-left: 25px;
+	background: url('Images/bullet.png') top left no-repeat;
+			color:#04324D;
+			
+}
+h1 {
+	margin: 0;
+	font-size: 1.6em;
+	font-weight: normal;
+	font-family:Arial;
+	 	color:#454444;
+		
+		font-weight:bolder;
+	
+}
+h2 {
+	margin: 0.5em 0;
+	font-size: 1.35em;
+	font-family:Arial;
+		color:#827D7F;
+		font-weight:bolder;
+}
+h3 {
+	margin: 0.5em 0;
+	font-size: 1.2em;
+	font-family:Arial;
+		color:#FA0C0C;
+		font-weight:bolder;
+}
+h4 {
+	margin: 0.5em 0;
+	font-size: 1em;
+	font-family:Arial;
+		color:#F50C0C;
+		font-weight:bolder;
+}
+h5 {
+	margin: 0.5em 0;
+	font-size: .8em;
+	font-family:Arial;
+		color:#04324D;
+		font-weight:bolder;
+}
+h6 {
+	margin: 0.5em 0;
+	font-size: 0.8em;
+	font-family:Arial;
+		color:#04324D;
+		font-weight:bolder;
+}
+
+p  {
+    margin:12px 0px 8px 0px;
+    line-height:1.4;
+
+}
+iframe{
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+}
